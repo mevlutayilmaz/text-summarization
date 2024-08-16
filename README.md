@@ -1,4 +1,4 @@
-# Proje Başlığı: Metin Özetleme ve Görselleştirme
+# Text Summarization
 
 Bu projede verilen bir dokümandaki cümleler, graf yapısına dönüştürülmüş ve bu graf modeli görselleştirilmiştir. Sonrasında, graf üzerindeki düğümler ile özet oluşturan bir algoritma geliştirilmiştir. Proje, veri yapıları bilgisini pekiştirmek ve problem çözme becerisini geliştirmek amacıyla gerçekleştirilmiştir.
 
